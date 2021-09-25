@@ -6,3 +6,6 @@ I decided to make a webiste on the festival of diwali which tells people what is
 This website comprises of 3 pages and uses HTML,CSS,JS.
 
 Why dont you try and click the title(index page) or the buttons(in rules page). ;)
+
+<h3>Link</h3>
+https://mohamed-ayaan358.github.io/Website-IEEE/
